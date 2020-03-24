@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarm_Clock</string>
+    <string name="alarm_clock_title_text">Alarm Clock</string>
+    <string name="create_new_alarm_button_text">Create New Alarm</string>
+    <string name="current_alarms_button_text">Current Alarms</string>
+    <string name="test_alarm_button_text">Test Alarm</string>
+</resources>
